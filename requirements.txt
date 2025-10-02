@@ -1,0 +1,13 @@
+# Enterprise Logistic Regression Framework - Dependencies
+# Pinned versions for reproducible environments
+
+# Core ML Stack
+keras==3.8.0
+tensorflow==2.18.0
+
+# Data Processing
+numpy==2.0.2
+pandas==2.2.3
+
+# Machine Learning Utilities
+scikit-learn==1.5.2
