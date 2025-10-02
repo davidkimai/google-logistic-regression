@@ -508,7 +508,7 @@ This is a minimal reference implementation for classification tasks. For product
 
 ## License
 
-Apache License 2.0 (consistent with source material from Google ML Crash Course)
+MIT License
 
 ## Citation
 
